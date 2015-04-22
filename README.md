@@ -2,10 +2,13 @@
 Marc Lee, Geoff Winner
 
 ###Date
-April 21, 2015<br />
+April 22, 2015<br />
 
 ###Description
-Animal Shelter allows users to categorize and list their animals by type. They'll be able assign a type, and list all the animals of that type. If the user clicks on an animal, it will remove the animal from that list and and assign it to a list that shows animals that have been adopted.
+Course/Student Roster allows for quickly editing lists of courses and students to create a quick and easy list of all available courses and the students that occupy them.
+
+##Use
+Download or pull the repository and simply open up the index.html in your favorite browser.
 
 ###Copyright (c) 2015 Marc Lee, Geoff Winner
 
